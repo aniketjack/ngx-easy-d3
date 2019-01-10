@@ -1,0 +1,4 @@
+/**
+ * @license ngx-easy-d3
+ * MIT license
+ */
